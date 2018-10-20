@@ -15,8 +15,12 @@ weight = 60
 
 +++
 
+I give a talk at Fujitsu Lab, Tokyo, 2017-09-25. 
+
 I am Teaching Assistant for the following courses:
 
 - Introduction to Algorithms 
 - Probability and Statistics
+
+I am a foodie. I like finding good restaurants, ballroom dancing, and photography. 
 
