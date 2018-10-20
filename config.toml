@@ -9,7 +9,7 @@
 baseurl = "https://owen94.github.io/"
 
 # Title of your site
-title = "Academic"
+title = "Zuozhu's Homepage"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -244,10 +244,10 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fas"
-    link = "zuozhu_liu@mymail.sutd.edu.sg"
+  #i[[params.social]]
+  #  icon = "envelope"
+  #  icon_pack = "fas"
+  #  link = "zuozhu_liu@mymail.sutd.edu.sg"
 
   [[params.social]]
     icon = "twitter"
