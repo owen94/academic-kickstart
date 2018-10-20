@@ -17,3 +17,6 @@ weight = 60
 
 I am Teaching Assistant for the following courses:
 
+- Introduction to Algorithms 
+- Probability and Statistics
+
